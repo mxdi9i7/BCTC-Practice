@@ -1,0 +1,16 @@
+a {
+  text-decoration: none;
+  font-size: 16px;
+  color: black;
+  transition-duration: 300ms;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+li {
+  margin-bottom: 6px;
+}
+
+a:hover {
+  color: gray;
+  text-decoration: underline;
+}
